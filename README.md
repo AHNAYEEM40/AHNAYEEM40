@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **ahanyeem40@gmail.com**
 
-- 📄 Know about my experiences: [Click Now](https://ahnayeen00-portfolio.vercel.app/)
+- 📄 Check Out My Portfolio: [Click Now](https://ahnayeem.netlify.app/)
   
 - ⚡ Fun fact **😊**
 
